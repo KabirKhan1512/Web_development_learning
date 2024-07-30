@@ -1,0 +1,17 @@
+.red {
+color: brown;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-yellow {
+    background-color: yellow;
+    width: 400px;
+    text-align: justify;
+}
+
+.bg-green {
+    background-color: green;
+}
