@@ -1,0 +1,9 @@
+.box{
+    border: 2px black solid;
+    /* width: 2048px; */
+    /* width: 100vw; */
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    height: 80vh;
+}
