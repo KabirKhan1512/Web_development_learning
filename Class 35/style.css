@@ -1,0 +1,48 @@
+div {
+    padding: 20px;
+    margin: 20px;
+
+}
+
+/* .cards:first-child{
+    background-color: red;
+} */
+
+/* .cards::first-line {
+    color: red;
+} */
+
+/* .boxes *{
+    color: red;
+} */
+
+[data-color="primary"] {
+    color: blue;
+}
+
+
+.boxes::before {
+    content: "This is just a practice.";
+}
+
+.boxes::after{
+    content: "I am a good boy.";
+    color: brown;
+}
+
+::selection {
+    color: aqua;
+    background-color: blueviolet;
+}
+/* 
+::shadow {
+
+} */
+
+.cards::first-letter{
+    color: peru;
+}
+
+input::placeholder{
+    color: brown;
+}
